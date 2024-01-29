@@ -1,0 +1,24 @@
+.center {
+    text-align: center;
+}
+
+.style {
+    display: inline-block;
+    width: 40%;
+    padding: 5%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+}
+
+.name1 {
+    border-radius: 10px;
+    margin: 1%;
+    width: 80%;
+    display: inline-block;
+}
+
+.redius {
+    border-color: rgb(97, 18, 201);
+    border-radius: 5px;
+    padding: 1%;
+}
